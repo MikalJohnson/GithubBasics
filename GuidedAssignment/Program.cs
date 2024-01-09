@@ -11,7 +11,11 @@
         {
             Console.WriteLine("Hello, You!");
             Console.WriteLine("I want to be a bumblebee");
-            
+
+            Student mikal = new Student();
+            Student steph = new Student();
+            Professor william = new Professor();
+            Sport football = new Sport();
         }
     }
 }
